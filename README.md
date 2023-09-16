@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/faisalmalik_01" target="blank"><img src="https://img.shields.io/twitter/follow/faisalmalik_01?logo=twitter&style=for-the-badge" alt="faisalmalik_01" /></a> </p>
 
-- 🌱 I’m currently learning **C++ with OOPS**
+- 🌱 I’m currently learning **JAVA with DSA**
 
 - 📫 How to reach me **muhammadfaisalmalik01@gmail.com**
 
