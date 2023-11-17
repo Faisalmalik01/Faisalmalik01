@@ -6,9 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/faisalmalik_01" target="blank"><img src="https://img.shields.io/twitter/follow/faisalmalik_01?logo=twitter&style=for-the-badge" alt="faisalmalik_01" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
-
-- 📫 How to reach me **muhammadfaisalmalik01@gmail.com**
+ I’m currently learning **Web Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
