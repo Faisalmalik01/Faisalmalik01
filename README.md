@@ -1,37 +1,43 @@
 <div align="center">
 
-# Hi, I'm Faisal Malik 👋
+# Faisal Malik
 
 ### MERN Stack Developer
 
-Building scalable, responsive, and performant full-stack web applications with modern JavaScript technologies.
+Building scalable, modern full-stack web applications with JavaScript.
 
-[Portfolio](https://faisal-malik.vercel.app) • [LinkedIn](https://linkedin.com/in/faisalmalik01) • [Email](thefaisalmallik:your@email.com)
+<p>
+<a href="https://faisal-malik.vercel.app">Portfolio</a> •
+<a href="https://linkedin.com/in/faisalmalik01">LinkedIn</a> •
+<a href="mailto:thefaisalmallik@gmail.com">Email</a>
+</p>
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I'm a MERN Stack Developer passionate about creating production-ready web applications with clean architecture, intuitive user experiences, and scalable backend systems.
+I'm a MERN Stack Developer focused on building clean, scalable, and production-ready web applications.
 
-Currently focused on:
+My primary interests include backend architecture, authentication systems, API design, and creating intuitive user experiences with React.
 
-- ⚡ Building full-stack MERN applications
-- 🔐 Authentication & Authorization
-- 🗄 REST API Design
-- ☁ Deployment & DevOps fundamentals
-- 🤖 AI integrations into web applications
+I enjoy learning by building and continuously improving my engineering fundamentals.
 
 ---
 
 ## Tech Stack
 
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js" />
+</p>
+
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,redux,vite" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,redux,vite" />
 </p>
 
 ### Backend
@@ -43,25 +49,34 @@ Currently focused on:
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,render" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render,vscode" />
 </p>
 
 ---
 
 ## Current Focus
 
-```txt
-✓ Advanced MERN Development
-✓ Scalable Backend Architecture
-✓ JWT Authentication
-✓ Docker
-✓ CI/CD
-✓ System Design Fundamentals
+```text
+• Scalable Backend Architecture
+• Authentication & Authorization
+• REST API Design
+• Database Modeling
+• Docker
+• CI/CD
 ```
 
 ---
 
-## GitHub Analytics
+## Engineering Principles
+
+- Write code that is easy to understand.
+- Prefer maintainability over unnecessary complexity.
+- Build features with scalability in mind.
+- Keep improving through real-world projects.
+
+---
+
+## GitHub Stats
 
 <p align="center">
 
@@ -79,20 +94,8 @@ Currently focused on:
 
 ---
 
-## Let's Connect
-
-I'm always interested in collaborating on exciting projects, contributing to open source, and discussing full-stack development.
-
-📧 your@email.com
-
-🌐 https://faisal-malik.vercel.app
-
-💼 https://linkedin.com/in/your-link
-
----
-
 <div align="center">
 
-*"Code with clarity. Build with purpose."*
+Open to collaborating on meaningful full-stack projects.
 
 </div>
