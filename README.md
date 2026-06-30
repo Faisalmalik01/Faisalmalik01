@@ -47,19 +47,41 @@ My interests span backend architecture, authentication, API design, scalable sys
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,render" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,render,docker" />
 </p>
 
 ---
 
-## What I'm Working On
+## GET /developer
 
-- Building scalable MERN applications
-- Authentication & Authorization
-- Backend architecture
-- REST APIs
-- Docker & Deployment
-- AI-powered web applications
+```json
+{
+  "name": "Faisal Malik",
+  "role": "Full-Stack MERN Developer",
+  "experience": [
+    "Building production-ready web applications",
+    "Designing RESTful APIs",
+    "Authentication & Authorization",
+    "Machine Learning & Explainable AI"
+  ],
+  "currentlyBuilding": [
+    "Scalable MERN Applications",
+    "Backend Systems",
+    "AI-powered Web Applications"
+  ],
+  "currentlyLearning": [
+    "Docker",
+    "System Design",
+    "Cloud Fundamentals"
+  ],
+  "availableFor": [
+    "Software Engineering Internships",
+    "MERN Developer Roles",
+    "Full-Stack JavaScript Roles"
+  ],
+  "status": "Open to Opportunities"
+}
+```
 
 ---
 
@@ -72,28 +94,10 @@ My interests span backend architecture, authentication, API design, scalable sys
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Faisalmalik01&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faisalmalik01&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Faisalmalik01&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
 <div align="center">
 
-### Open to Software Engineering, MERN & Full-Stack opportunities.
+### Thanks for stopping by 👋
 
-Let's build something impactful.
+Always open to collaborating, building impactful products, and connecting with fellow developers.
 
 </div>
