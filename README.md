@@ -4,7 +4,7 @@
 
 ### Full-Stack MERN Developer
 
-Building scalable web applications with the MERN stack and exploring AI-powered software.
+Building scalable web applications with the MERN stack and integrating AI into modern applications.
 
 <p>
   <a href="https://faisal-malik.vercel.app">Portfolio</a> •
