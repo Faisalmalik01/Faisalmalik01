@@ -2,9 +2,9 @@
 
 # Faisal Malik
 
-### Full-Stack MERN Developer
+### MERN Stack Developer
 
-Building scalable web applications with the MERN stack and integrating AI into modern applications.
+Building modern, responsive, and scalable web applications using the MERN stack.
 
 <p>
   <a href="https://faisal-malik.vercel.app">Portfolio</a> •
@@ -20,7 +20,9 @@ Building scalable web applications with the MERN stack and integrating AI into m
 
 I'm a Full-Stack JavaScript Developer focused on building modern, production-ready web applications using the MERN stack.
 
-My interests span backend architecture, authentication, API design, scalable systems, and creating intuitive user experiences. Alongside full-stack development, I've worked on Machine Learning and Explainable AI projects, and I'm currently exploring how AI can enhance modern web applications.
+My current focus is strengthening my backend development skills with Node.js, Express.js, MongoDB, REST APIs, authentication, and database design while continuing to improve my frontend engineering with React.
+
+During my undergraduate research, I worked on an Explainable AI project for retinal disease classification, which gave me experience applying machine learning to a real-world problem. While it was a valuable research experience, my primary focus today is software engineering and MERN stack development.
 
 ---
 
@@ -56,28 +58,31 @@ My interests span backend architecture, authentication, API design, scalable sys
 
 ```json
 {
+{
   "name": "Faisal Malik",
-  "role": "Full-Stack MERN Developer",
+  "role": "MERN Stack Developer",
   "experience": [
-    "Building production-ready web applications",
-    "Designing RESTful APIs",
+    "Building responsive React applications",
+    "Developing REST APIs",
     "Authentication & Authorization",
-    "Machine Learning & Explainable AI"
+    "Responsive UI Development",
+    "Research experience in Explainable AI"
   ],
   "currentlyBuilding": [
-    "Scalable MERN Applications",
-    "Backend Systems",
-    "AI-powered Web Applications"
+    "Production-ready MERN Applications",
+    "Backend APIs with Node.js & Express",
+    "MongoDB Database Projects"
   ],
   "currentlyLearning": [
+    "Backend Development",
+    "System Design Fundamentals",
     "Docker",
-    "System Design",
     "Cloud Fundamentals"
   ],
   "availableFor": [
-    "Software Engineering Internships",
-    "MERN Developer Roles",
-    "Full-Stack JavaScript Roles"
+    "MERN Developer Internships",
+    "Frontend Developer Roles",
+    "Software Engineering Internships"
   ],
   "status": "Open to Opportunities"
 }
