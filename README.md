@@ -2,7 +2,7 @@
 
 # Faisal Malik
 
-### MERN Stack Developer
+### Full Stack Developer
 
 Building modern, responsive, and scalable web applications using the MERN stack.
 
