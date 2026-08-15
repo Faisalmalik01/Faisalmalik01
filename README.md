@@ -6,7 +6,7 @@
 
 I build full-stack web applications with React, Node.js, Express, and MongoDB — from polished interfaces to the APIs and data systems behind them.
 
-[Portfolio](https://faisal-malik.vercel.app) · [LinkedIn](https://linkedin.com/in/faisalmalik01) · [Email](mailto:thefaisalmallik@gmail.com)
+[Portfolio](https://faisalmallik.vercel.app) · [LinkedIn](https://linkedin.com/in/faisalmalik01) · [Email](mailto:thefaisalmallik@gmail.com)
 
 </div>
 
