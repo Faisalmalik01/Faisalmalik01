@@ -4,21 +4,21 @@
 
 **MERN Stack Developer**
 
-I build thoughtful, full-stack web applications with a focus on clean interfaces, reliable APIs, and practical engineering.
+I build full-stack web applications with React, Node.js, Express, and MongoDB — from polished interfaces to the APIs and data systems behind them.
 
-[Portfolio](https://faisalmallik.vercel.app) · [LinkedIn](https://linkedin.com/in/faisalmalik01) · [Email](mailto:thefaisalmallik@gmail.com)
+[Portfolio](https://faisal-malik.vercel.app) · [LinkedIn](https://linkedin.com/in/faisalmalik01) · [Email](mailto:thefaisalmallik@gmail.com)
 
 </div>
 
 ---
 
-### What I work with
+### Stack
 
 **Frontend**
 React · JavaScript · Tailwind CSS · HTML · CSS
 
 **Backend**
-Node.js · Express · MongoDB · REST APIs · JWT
+Node.js · Express · MongoDB · REST APIs · JWT · Authentication
 
 **Tools**
 Git · GitHub · Postman · Vercel · Render
@@ -27,17 +27,28 @@ Git · GitHub · Postman · Vercel · Render
 
 ### Selected work
 
-**Adaptive Fused Grad-CAM**
-Undergraduate research project exploring explainability in retinal OCT classification using deep learning and visual attribution methods.
+**Fereha**
+Full-stack web application focused on a clean, modern user experience with a MERN-based architecture.
 
-[View project →](https://github.com/Faisalmalik01/adaptive-oct-explainability)
+`React` `Node.js` `Express` `MongoDB`
+
+**Adaptive Fused Grad-CAM**
+Undergraduate research project exploring interpretable retinal OCT classification through deep learning and visual attribution.
+
+`TensorFlow` `ResNet50` `React` `Flask`
+
+[View research project →](https://github.com/Faisalmalik01/adaptive-oct-explainability)
 
 ---
 
 ### Currently
 
-Building full-stack MERN applications and going deeper into backend architecture, system design, TypeScript, Docker, and cloud fundamentals.
+Going deeper into backend architecture, TypeScript, Docker, cloud fundamentals, and system design.
 
 ---
 
-> Build simply. Understand deeply. Ship deliberately.
+<div align="center">
+
+**Build with intent. Learn by building.**
+
+</div>
