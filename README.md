@@ -2,107 +2,42 @@
 
 # Faisal Malik
 
-### Full Stack Developer
+**MERN Stack Developer**
 
-Building modern, responsive, and scalable web applications using the MERN stack.
+I build thoughtful, full-stack web applications with a focus on clean interfaces, reliable APIs, and practical engineering.
 
-<p>
-  <a href="https://faisal-malik.vercel.app">Portfolio</a> •
-  <a href="https://linkedin.com/in/faisalmalik01">LinkedIn</a> •
-  <a href="mailto:thefaisalmallik@gmail.com">Email</a>
-</p>
+[Portfolio](https://faisalmallik.vercel.app) · [LinkedIn](https://linkedin.com/in/faisalmalik01) · [Email](mailto:thefaisalmallik@gmail.com)
 
 </div>
 
 ---
 
-## About
+### What I work with
 
-I'm a Full-Stack JavaScript Developer focused on building modern, production-ready web applications using the MERN stack.
+**Frontend**
+React · JavaScript · Tailwind CSS · HTML · CSS
 
-My current focus is strengthening my backend development skills with Node.js, Express.js, MongoDB, REST APIs, authentication, and database design while continuing to improve my frontend engineering with React.
+**Backend**
+Node.js · Express · MongoDB · REST APIs · JWT
 
-During my undergraduate research, I worked on an Explainable AI project for retinal disease classification, which gave me experience applying machine learning to a real-world problem. While it was a valuable research experience, my primary focus today is software engineering and MERN stack development.
-
----
-
-## Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,python" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,redux,vite" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,render,docker" />
-</p>
+**Tools**
+Git · GitHub · Postman · Vercel · Render
 
 ---
 
-## GET /developer
+### Selected work
 
-```json
-{
-{
-  "name": "Faisal Malik",
-  "role": "MERN Stack Developer",
-  "experience": [
-    "Building responsive React applications",
-    "Developing REST APIs",
-    "Authentication & Authorization",
-    "Responsive UI Development",
-    "Research experience in Explainable AI"
-  ],
-  "currentlyBuilding": [
-    "Production-ready MERN Applications",
-    "Backend APIs with Node.js & Express",
-    "MongoDB Database Projects"
-  ],
-  "currentlyLearning": [
-    "Backend Development",
-    "System Design Fundamentals",
-    "Docker",
-    "Cloud Fundamentals"
-  ],
-  "availableFor": [
-    "MERN Developer Internships",
-    "Frontend Developer Roles",
-    "Software Engineering Internships"
-  ],
-  "status": "Open to Opportunities"
-}
-```
+**Adaptive Fused Grad-CAM**
+Undergraduate research project exploring explainability in retinal OCT classification using deep learning and visual attribution methods.
+
+[View project →](https://github.com/Faisalmalik01/adaptive-oct-explainability)
 
 ---
 
-## Engineering Principles
+### Currently
 
-- Write maintainable code before clever code.
-- Design APIs with scalability in mind.
-- Prioritize performance, accessibility, and developer experience.
-- Build software that solves real problems.
+Building full-stack MERN applications and going deeper into backend architecture, system design, TypeScript, Docker, and cloud fundamentals.
 
 ---
 
-<div align="center">
-
-### Thanks for stopping by 👋
-
-Always open to collaborating, building impactful products, and connecting with fellow developers.
-
-</div>
+> Build simply. Understand deeply. Ship deliberately.
