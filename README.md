@@ -1,1 +1,1 @@
-<img src="https://media.giphy.com/media/toXKzaJP3WIgM/giphy.gif" width="100%" alt="Funny GF GIF" />
+<iframe src="https://giphy.com/embed/lgRNj0m1oORfW" width="100%" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lgRNj0m1oORfW">via GIPHY</a></p>
