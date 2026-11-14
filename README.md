@@ -1,4 +1,8 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/lgRNj0m1oORfW/giphy.gif" width="100%" />
+  <img
+    src="https://i.giphy.com/media/DHZrza5F5qeA9XVSOO/giphy.gif"
+    width="100%"
+    alt="Funny office work GIF"
+  />
 </p>
 
